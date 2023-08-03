@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil😧
 
-<!--
-**rraulm13/rraulm13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é raul moreira 
 
-Here are some ideas to get you started:
+-estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo na linguagem javaScript
+
+-utilizo esse espaço para mim organização e compartilhamento dos meus rojetos desenvolvidos
+
+### você entrar em contato comigo 🔤
+
+raul.driussi@escola.pr.gov.br
+
+![](https://media.tenor.com/f4jRNK7EyEEAAAAM/goodmorning-happythursday.gif)
